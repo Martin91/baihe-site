@@ -168,6 +168,10 @@ hr.small {
     padding: 50px 0;
 }
 
+.about p {
+    text-indent: 2em;
+}
+
 /* Services */
 
 .services {
@@ -237,3 +241,7 @@ hr.small {
 footer {
     padding: 100px 0;
 }
+
+/* 百度地图 */
+.iw_poi_title {color:#CC5522;font-size:14px;font-weight:bold;overflow:hidden;padding-right:13px;white-space:nowrap}
+.iw_poi_content {font:12px arial,sans-serif;overflow:visible;padding-top:4px;white-space:-moz-pre-wrap;word-wrap:break-word}
